@@ -1,0 +1,4 @@
+Amount : 12900.12
+Account Number : 00000
+Bank Code : VVTBI
+Currency Code : VND
